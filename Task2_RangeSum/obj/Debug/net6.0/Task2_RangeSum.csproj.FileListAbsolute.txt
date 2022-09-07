@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\bin\Debug\net6.0\Task2_RangeSum.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\bin\Debug\net6.0\Task2_RangeSum.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\bin\Debug\net6.0\Task2_RangeSum.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\bin\Debug\net6.0\Task2_RangeSum.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\bin\Debug\net6.0\Task2_RangeSum.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\Task2_RangeSum.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\Task2_RangeSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\Task2_RangeSum.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\Task2_RangeSum.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\Task2_RangeSum.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\Task2_RangeSum.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\refint\Task2_RangeSum.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\Task2_RangeSum.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\Task2_RangeSum.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task2_RangeSum\obj\Debug\net6.0\ref\Task2_RangeSum.dll
