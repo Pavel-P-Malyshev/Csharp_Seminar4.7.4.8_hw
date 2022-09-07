@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\bin\Debug\net6.0\Task001_ShowNatural.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\bin\Debug\net6.0\Task001_ShowNatural.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\bin\Debug\net6.0\Task001_ShowNatural.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\bin\Debug\net6.0\Task001_ShowNatural.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\bin\Debug\net6.0\Task001_ShowNatural.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\Task001_ShowNatural.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\Task001_ShowNatural.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\Task001_ShowNatural.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\Task001_ShowNatural.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\Task001_ShowNatural.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\Task001_ShowNatural.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\refint\Task001_ShowNatural.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\Task001_ShowNatural.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\Task001_ShowNatural.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.7-4.8\Seminar 4.7.4.8 hw\Task001_ShowNatural\obj\Debug\net6.0\ref\Task001_ShowNatural.dll
